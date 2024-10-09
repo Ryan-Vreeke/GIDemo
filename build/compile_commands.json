@@ -1,0 +1,26 @@
+[
+{
+  "directory": "/home/ryan/source/radiance-cascades/build",
+  "command": "/usr/bin/c++  -I/home/ryan/source/radiance-cascades/include -I/home/ryan/source/radiance-cascades/external/cyCodeBase -g -std=gnu++20 -o CMakeFiles/RadianceCascade.dir/src/main.cpp.o -c /home/ryan/source/radiance-cascades/src/main.cpp",
+  "file": "/home/ryan/source/radiance-cascades/src/main.cpp",
+  "output": "CMakeFiles/RadianceCascade.dir/src/main.cpp.o"
+},
+{
+  "directory": "/home/ryan/source/radiance-cascades/build",
+  "command": "/usr/bin/c++  -I/home/ryan/source/radiance-cascades/include -I/home/ryan/source/radiance-cascades/external/cyCodeBase -g -std=gnu++20 -o CMakeFiles/RadianceCascade.dir/src/camera.cpp.o -c /home/ryan/source/radiance-cascades/src/camera.cpp",
+  "file": "/home/ryan/source/radiance-cascades/src/camera.cpp",
+  "output": "CMakeFiles/RadianceCascade.dir/src/camera.cpp.o"
+},
+{
+  "directory": "/home/ryan/source/radiance-cascades/build",
+  "command": "/usr/bin/c++  -I/home/ryan/source/radiance-cascades/include -I/home/ryan/source/radiance-cascades/external/cyCodeBase -g -std=gnu++20 -o CMakeFiles/RadianceCascade.dir/src/render.cpp.o -c /home/ryan/source/radiance-cascades/src/render.cpp",
+  "file": "/home/ryan/source/radiance-cascades/src/render.cpp",
+  "output": "CMakeFiles/RadianceCascade.dir/src/render.cpp.o"
+},
+{
+  "directory": "/home/ryan/source/radiance-cascades/build",
+  "command": "/usr/bin/c++  -I/home/ryan/source/radiance-cascades/include -I/home/ryan/source/radiance-cascades/external/cyCodeBase -g -std=gnu++20 -o CMakeFiles/RadianceCascade.dir/src/window.cpp.o -c /home/ryan/source/radiance-cascades/src/window.cpp",
+  "file": "/home/ryan/source/radiance-cascades/src/window.cpp",
+  "output": "CMakeFiles/RadianceCascade.dir/src/window.cpp.o"
+}
+]
